@@ -1,0 +1,6 @@
+App describtion: this simple app will perform the simple task of allowing to enter information relevant to the health of your favorite dog, including 
+weight and height. Why weight and height you may ask. Well it's the best and most common way to accuratly monitor our favorite fur friend health.
+This simple and comonly use health monitaring technique is use by vets and dog specialist alike to get a describtive idea of the overhall health of
+a dog. Idealy I was hoping to attach a database that will allow the user to compare his or her dog weight and height by comparing to healthy dog
+of the same breed but this first step is a start toward that goal. The app also allow you to keep the data you've enter and save it in a list in 
+order to keep good record and hopfully start a database that could be utilze in any pet monitaring service.  
